@@ -10,3 +10,6 @@ Tip: pueden hacer tantos push como deseen suponiendo que puede suceder una catá
 Ojo: Recuerden siempre usar ruta absoluta en repositorios remotos , NUNCA rutas relativas, no quiero que migren por esa razón :S 
 
 USTEDES PUEDEN, son chingonas y chingones :D !!
+
+Vamos que si se puede
+
